@@ -33,9 +33,7 @@ export default function Home() {
                         padding: SIZES.medium
                     }}
                 >
-                 <Welcome
-
-                 />
+                 <Welcome/>
                  <Popularjobs />
                  <Nearbyjobs />
                 </View>
